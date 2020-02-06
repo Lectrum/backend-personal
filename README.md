@@ -15,14 +15,12 @@ DEBUG='server:*,router:*,storage,db'
 PORT=3000
 
 # Cookie
-PASSWORD='aE]_"a%YWjVn\DFp<4T/'
+PASSWORD='aE]_a%YWjVn\DFp<4T/'
 
 # DB
 DB_NAME=''
 DB_URL='lab.lectrum.io'
-DB_PORT=37018
-DB_USER=''
-DB_PASSWORD=''
+DB_PORT=37019
 ```
 
 **Обратите внимание!**
